@@ -1,5 +1,5 @@
 # Investigating a Dataset
-This is the first project in Udacity's Advanced Data Analysis Course, where I perform some data analysis on [Kaggle's](https://www.kaggle.com/tmdb/tmdb-movie-metadata) TMDB Dataset:point_up:<br>
+This is the first project in Udacity's Advanced Data Analysis Nanodegree, where I perform some data analysis on [Kaggle's](https://www.kaggle.com/tmdb/tmdb-movie-metadata) TMDB Dataset:point_up:<br>
 The jubyter notebook is very detailed, and every step is thoroughly explained.:green_book::pencil2:<br>
 
 ## Dependencies
